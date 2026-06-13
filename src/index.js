@@ -57,8 +57,15 @@ $(function () {
             "rac.object.014.title": "014 -- たんぼのなかの田中さん",
             "rac.object.014.desc": "局所存在固定型人物現象。たんぼのなかにいる田中さん。",
 
+            "rac.object.015.title": "015 -- あの世の使者",
+            "rac.object.015.desc": "死後世界伝達擬態生命体。",
+
+            "rac.object.016.title": "016 -- Su",
+            "rac.object.016.desc": "プロセスのその他の部分",
+
             "rac.object.infinity.title": "Infinity -- シンボル",
             "rac.object.infinity.desc": "原型情報集合体。全ての生物の元となるもの。"
+
         },
         en: {
             "rac.home": "Home",
@@ -113,6 +120,11 @@ $(function () {
 
             "rac.object.014.title": "014 -- Tanaka-san in the Rice Paddy",
             "rac.object.014.desc": "Locally-fixed humanoid phenomenon. Tanaka-san, who is in the rice paddy.",
+            "rac.object.015.title": "015 -- Ano Yo no Shisha",
+            "rac.object.015.desc": "The messenger from the other world.",
+
+            "rac.object.016.title": "016 -- Su",
+            "rac.object.016.desc": "Other parts of the process",
 
             "rac.object.infinity.title": "Infinity -- Symbol",
             "rac.object.infinity.desc": "Archetypal information aggregate. The source of all lifeforms."
@@ -170,6 +182,12 @@ $(function () {
 
             "rac.object.014.title": "014 -- Tanaka-san en la Ricejo",
             "rac.object.014.desc": "Loke fiksita homoida fenomeno. Tanaka-san, kiu estas en la ricejo.",
+
+            "rac.object.015.title": "015 -- Ano Yo no Shisha",
+            "rac.object.015.desc": "La mesaĝisto de la alia mondo.",
+
+            "rac.object.016.title": "016 -- Su",
+            "rac.object.016.desc": "Aliaj partoj de la procezo",
 
             "rac.object.infinity.title": "Infinity -- Simbolo",
             "rac.object.infinity.desc": "Praforma informa agregato. La fonto de ĉiuj vivuloj."

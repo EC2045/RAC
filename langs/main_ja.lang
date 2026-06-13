@@ -1,0 +1,10 @@
+rac.title=RAC
+rac.subtitle=この世界に存在する生物、現象をまとめたアーカイブサイトです。
+rac.home=ホーム
+rac.copyright=Copyright 2045 RAC. All rights reserved.
+rac.object.000.title=000 -- 問い
+rac.object.000.desc=すべての現象の直前に現れる、存在の開始条件。
+rac.object.001.title=001 -- モバジュウ
+rac.object.001.desc=モバイルバッテリーに擬態し、接続機器から電力を吸い取る寄生生物。
+rac.back_to_home=ポータルに戻る
+rac.status.active=データベース接続: 正常

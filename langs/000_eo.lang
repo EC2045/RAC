@@ -1,0 +1,46 @@
+# Komuna UI
+rac.home=Hejmo
+rac.copyright=Kopirajto 2045 RAC. Ĉiuj rajtoj rezervitaj.
+rac.back_to_home=Reen al Portalo
+rac.status.active=Datumbaza Konekto: Stabila
+
+# 000 Demando
+q.title=Demando id:0
+q.classification=Oficiala Klasifiko: Genera Kogna Vivformo
+q.alias=Kutima Nomo: La Komenco Mem
+q.summary.title=Superrigardo
+q.summary.text=Demando ne estas "demando" (peto pri respondo).<br>Ĝi estas,<br>la "komenca kondiĉo" por ke ĉiuj aferoj okazu<br>.<br>Alivorte, antaŭ ol io ajn okazas en la mondo, demando ĉiam ekzistas.
+q.features.title=Karakterizaĵoj
+q.features.1=Havas neniun signifon per si mem
+q.features.2=Tamen, ĝi aperas ĵus antaŭ ĉiuj fenomenoj
+q.features.3=Neeviteble ŝanĝas formon kiam observata
+q.features.4=Malaperas kiam respondita
+q.ecology.title=Ekologio (Konduto)
+q.ecology.text=Demandoj ne malamas "respondojn".<br>Pli ĝuste,<br>kiam respondo estas determinita, ĝia rolo finiĝas<br>, tial ĝi malaperas.<br>Ĉi tio ne estas morto, sed<br>Finiĝo de Stata Transiro<br>.
+q.relation.title=Rilato kun la Mondo
+q.relation.text1=En la hipotezo de la Esplorinstituto Toreki:
+q.relation.item1=Kuki: Subtenado de ekzisto
+q.relation.item2=Nanika: Imitado de ekzisto
+q.relation.item3=Symbol: Strukturo de ekzisto
+q.relation.item4=Demando: Iniciatado de ekzisto
+q.relation.text2=.
+q.nature.title=Gravaj Karakterizaĵoj
+q.nature.text=Demando ne estas "io serĉanta respondon".<br>Prefere, estas la malo;<br>se respondo ekzistas, ĝi "ne povas resti demando"<br>.
+q.nature.example=Ekzemplo
+q.nature.example1="Kio estas tio?" → Demando estas generita
+q.nature.example2="Ĉi tio estas ŝtono." → La demando finiĝas
+q.nature.text2=Tamen, en la mondo Toreki estas iom malsame.<br>Eĉ se oni donas respondon, alia demando tuj naskiĝas<br>, tial fino ne estas observata.
+q.records.title=Observaj Rekordoj
+q.records.text=Rikordo de Esploristo A:<br>"Ne ekzistas respondoj en ĉi tiu mondo; anstataŭe, demandoj moviĝas."<br>Posta Rikordo:<br>"Tiam, kies demando skribas ĉi tiun rikordon?"<br>La rikordo ĉerpas ĉi tie.
+q.risk.title=Danĝero
+q.risk.text1=Neniu.
+q.risk.text2=Tamen, longdaŭra eksponiĝo povas kaŭzi staton kie:
+q.risk.item1=Sendepende de tio, kion vi rigardas, "Kio estas tio?" ne malaperas
+q.risk.item2=Vi ne povas senti vin trankvila eĉ se vi trovas respondojn
+q.risk.item3=Male, "respondoj fariĝas teruraj"
+q.risk.text3=.
+q.handling.title=Kutima Traktado
+q.handling.text=Infano:<br>"Kial?"<br>Plenkreskulo:<br>"Tiel ĝi simple estas."<br>Esploristo:<br>"De kie venis tiu 'kial'?"
+q.conclusion.title=Konkludo
+q.conclusion.text=Demando estas:
+q.conclusion.ans=Mekanismo por ke la mondo daŭre komencu sin mem — Provizita de [Murinsu](https://ec2045.github.io/murinsu/)

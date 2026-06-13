@@ -54,6 +54,9 @@ $(function () {
             "rac.object.013.title": "013 -- 壁を走るな",
             "rac.object.013.desc": "重力規律干渉型指示概念。垂直方向への規律。",
 
+            "rac.object.014.title": "014 -- たんぼのなかの田中さん",
+            "rac.object.014.desc": "局所存在固定型人物現象。たんぼのなかにいる田中さん。",
+
             "rac.object.infinity.title": "Infinity -- シンボル",
             "rac.object.infinity.desc": "原型情報集合体。全ての生物の元となるもの。"
         },
@@ -108,6 +111,9 @@ $(function () {
             "rac.object.013.title": "013 -- Do Not Run on Wall",
             "rac.object.013.desc": "Gravitational discipline interference instruction concept. Discipline towards vertical direction.",
 
+            "rac.object.014.title": "014 -- Tanaka-san in the Rice Paddy",
+            "rac.object.014.desc": "Locally-fixed humanoid phenomenon. Tanaka-san, who is in the rice paddy.",
+
             "rac.object.infinity.title": "Infinity -- Symbol",
             "rac.object.infinity.desc": "Archetypal information aggregate. The source of all lifeforms."
         },
@@ -161,6 +167,9 @@ $(function () {
 
             "rac.object.013.title": "013 -- Ne Kuru sur Muro",
             "rac.object.013.desc": "Gravita disciplina interfera instrukcia koncepto. Disciplino al vertikala direkto.",
+
+            "rac.object.014.title": "014 -- Tanaka-san en la Ricejo",
+            "rac.object.014.desc": "Loke fiksita homoida fenomeno. Tanaka-san, kiu estas en la ricejo.",
 
             "rac.object.infinity.title": "Infinity -- Simbolo",
             "rac.object.infinity.desc": "Praforma informa agregato. La fonto de ĉiuj vivuloj."

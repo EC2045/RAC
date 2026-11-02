@@ -226,7 +226,7 @@ $(function () {
         localStorage.setItem('rac-theme', theme);
     }
 
-    function applyLanguage(lang) {
+    function applyLanguage(lang, userInitiated = false) {
         // 1. Fixed UI Translations
         $('[data-lang-key]').each(function () {
             const key = $(this).attr('data-lang-key');
@@ -246,6 +246,8 @@ $(function () {
         currentLang = lang;
         localStorage.setItem('rac-lang', lang);
         $('#rac-lang-sel').val(lang);
+        document.documentElement.lang = lang;
+        window.dispatchEvent(new CustomEvent('ec2045:languagechange', {detail:{lang,userInitiated}}));
     }
 
     /* ==========================================
@@ -298,12 +300,13 @@ $(function () {
     });
 
     $('#rac-lang-sel').on('change', function () {
-        applyLanguage($(this).val());
+        applyLanguage($(this).val(), true);
     });
 
     /* ==========================================
        Initialization
        ========================================== */
+    window.setRacLanguage = language => applyLanguage(language, false);
     applyTheme(currentTheme);
     applyLanguage(currentLang);
 });
